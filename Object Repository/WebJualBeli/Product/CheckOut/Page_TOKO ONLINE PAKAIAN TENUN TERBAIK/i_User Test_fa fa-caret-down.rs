@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_User Test_fa fa-caret-down</name>
+   <tag></tag>
+   <elementGuidId>650b0b2f-a467-4b95-9d37-3111fed23dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div[2]/ul/li[2]/div/strong/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-caret-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4e655e56-03ab-4b6f-8cfe-7f0f8c9e5d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-caret-down</value>
+      <webElementGuid>2f868e39-21e9-4937-b305-e241dd1610b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;pull-right&quot;]/ul[@class=&quot;header-btns&quot;]/li[@class=&quot;header-account dropdown default-dropdown&quot;]/div[@class=&quot;dropdown-toggle&quot;]/strong[@class=&quot;text-uppercase&quot;]/i[@class=&quot;fa fa-caret-down&quot;]</value>
+      <webElementGuid>f532cc1a-230b-4c01-a26c-016797878eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[2]/ul/li[2]/div/strong/i</value>
+      <webElementGuid>3db48b71-9662-4ebe-a841-188d360fe7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/i</value>
+      <webElementGuid>5e58f921-627a-4c3a-8ea0-1e7b878e3dc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

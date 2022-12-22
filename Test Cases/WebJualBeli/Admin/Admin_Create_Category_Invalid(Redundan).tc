@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin_Create_Category_Invalid(Redundan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc078745-ea52-402c-96fe-1408c0d35c64</testCaseGuid>
+</TestCaseEntity>

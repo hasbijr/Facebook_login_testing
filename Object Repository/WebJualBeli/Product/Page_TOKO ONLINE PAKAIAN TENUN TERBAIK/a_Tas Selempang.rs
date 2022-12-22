@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tas Selempang</name>
+   <tag></tag>
+   <elementGuidId>9af601be-4e66-4a64-8da6-188c704bb06f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='responsive-nav']/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8725211e-16bf-4508-bbc5-fbe82ea662a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>produk_kategori.php?id=5</value>
+      <webElementGuid>7ebca676-4f08-405a-bee3-e2bbe981c51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tas Selempang</value>
+      <webElementGuid>8813befc-84d1-49e1-a608-ff68083087bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responsive-nav&quot;)/div[@class=&quot;category-nav show-on-click&quot;]/ul[@class=&quot;category-list open&quot;]/li[4]/a[1]</value>
+      <webElementGuid>3505db6d-3969-4d21-8513-d490519db686</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='responsive-nav']/div/ul/li[4]/a</value>
+      <webElementGuid>d66d73aa-a681-4663-95ae-a035ae546ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tas Selempang')]</value>
+      <webElementGuid>9a0e9406-0639-47a6-a4ab-48bb1b0e2e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celana'])[1]/following::a[1]</value>
+      <webElementGuid>4a5d2000-a4f2-4c48-8cbe-adc7c9a53c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baju'])[1]/following::a[2]</value>
+      <webElementGuid>64d3126b-bb23-49b5-9faf-dcce591c3050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sepatu'])[1]/preceding::a[1]</value>
+      <webElementGuid>38d8d85a-8723-40fe-8806-3c3afb3d8e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celana Pendek'])[1]/preceding::a[2]</value>
+      <webElementGuid>7b7f16e7-9319-448c-b77a-5a7b5443a3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tas Selempang']/parent::*</value>
+      <webElementGuid>0e313f5d-e44b-41b4-8805-8a1272995ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'produk_kategori.php?id=5')]</value>
+      <webElementGuid>6c45d9fe-d223-46e7-9fbf-63820c8f33d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>fa71d478-3c34-43cc-99e0-0826bc0a5f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'produk_kategori.php?id=5' and (text() = 'Tas Selempang' or . = 'Tas Selempang')]</value>
+      <webElementGuid>cdbae04c-173f-451b-9160-dfa0a47d3b6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

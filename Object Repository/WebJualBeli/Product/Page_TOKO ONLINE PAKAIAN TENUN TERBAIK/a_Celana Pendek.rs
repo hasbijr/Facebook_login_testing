@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Celana Pendek</name>
+   <tag></tag>
+   <elementGuidId>4837c8ab-1561-4394-bb2d-ab39d51725d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='responsive-nav']/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25c7a1b8-ac02-4376-9940-22cd67d29606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>produk_kategori.php?id=7</value>
+      <webElementGuid>91c70628-64ff-44f1-bac2-660ab9f1e507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Celana Pendek</value>
+      <webElementGuid>9a9bc8db-22b4-485a-9814-3f29cdcad14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responsive-nav&quot;)/div[@class=&quot;category-nav show-on-click&quot;]/ul[@class=&quot;category-list open&quot;]/li[6]/a[1]</value>
+      <webElementGuid>c15903b4-a4b4-44f4-b4b1-e4e9bb945bd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='responsive-nav']/div/ul/li[6]/a</value>
+      <webElementGuid>cab05ee2-58b7-4d51-977c-327a7cdc1f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Celana Pendek')]</value>
+      <webElementGuid>dde1e0f2-f8c0-4e79-b7bc-67755cd35f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sepatu'])[1]/following::a[1]</value>
+      <webElementGuid>92200470-c6a8-4cc4-8956-63512c03a036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tas Selempang'])[1]/following::a[2]</value>
+      <webElementGuid>e5f8039e-1169-4001-a890-f5856494c09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaket'])[1]/preceding::a[1]</value>
+      <webElementGuid>f171882e-3fe8-4bc8-b0fd-1ca5ef622f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris'])[1]/preceding::a[2]</value>
+      <webElementGuid>fca34b5f-374a-4e37-a22c-1e3c2f26a9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Celana Pendek']/parent::*</value>
+      <webElementGuid>9aa6eb08-404a-4986-9d6f-cc835d25356f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'produk_kategori.php?id=7')]</value>
+      <webElementGuid>63e8669d-9161-4b01-a3e0-03c280a75c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>40f119fe-a70f-4821-812b-40d7240d9226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'produk_kategori.php?id=7' and (text() = 'Celana Pendek' or . = 'Celana Pendek')]</value>
+      <webElementGuid>c83d851e-498f-4872-8b97-2682457ab6f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

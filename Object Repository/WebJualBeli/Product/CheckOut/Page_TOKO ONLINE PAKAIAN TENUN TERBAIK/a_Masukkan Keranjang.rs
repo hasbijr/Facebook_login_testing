@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Masukkan Keranjang</name>
+   <tag></tag>
+   <elementGuidId>8bf31671-6618-4175-b5d9-bd873a8dcbec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store']/div/div/div/div[2]/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.primary-btn.add-to-cart.btn-block.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3d30cc26-4958-4def-be13-384d31242536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-btn add-to-cart btn-block text-center</value>
+      <webElementGuid>d0009ca5-aa23-4148-8428-11156142c06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>keranjang_masukkan.php?id=13&amp;redirect=index</value>
+      <webElementGuid>3278fef6-75a8-4a17-a8d0-5957bc2a04f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masukkan Keranjang</value>
+      <webElementGuid>f23be4e0-1188-4a39-8ce8-b94e836512be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-6&quot;]/div[@class=&quot;product product-single&quot;]/div[@class=&quot;product-body&quot;]/div[@class=&quot;product-btns&quot;]/a[@class=&quot;primary-btn add-to-cart btn-block text-center&quot;]</value>
+      <webElementGuid>b6bdff1a-399a-411f-b922-7dd919ca8a0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store']/div/div/div/div[2]/div[2]/a[2]</value>
+      <webElementGuid>dc53449b-879f-4623-93f7-0d5451c4153c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Masukkan Keranjang')]</value>
+      <webElementGuid>caeac802-1019-453b-94de-5bcb318dedd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[1]/following::a[1]</value>
+      <webElementGuid>9ea67885-5215-4677-8511-e939a593339c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baju daster bahan tenun'])[1]/following::a[2]</value>
+      <webElementGuid>6cd8a418-3031-442c-95a4-8f55bdd6fac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baju'])[3]/preceding::a[1]</value>
+      <webElementGuid>c6f34f24-11e5-434e-9f5a-ddd9808aa6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick view'])[2]/preceding::a[1]</value>
+      <webElementGuid>50e4c8dc-fc7d-43b9-b2da-559bad5f9572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan Keranjang']/parent::*</value>
+      <webElementGuid>5431a529-f369-4c90-bda7-4ddc19442b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'keranjang_masukkan.php?id=13&amp;redirect=index')]</value>
+      <webElementGuid>29f0788d-0e3e-4bee-9523-030e991d9c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a[2]</value>
+      <webElementGuid>12c3c16c-ac84-47fd-a939-972319b79f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'keranjang_masukkan.php?id=13&amp;redirect=index' and (text() = ' Masukkan Keranjang' or . = ' Masukkan Keranjang')]</value>
+      <webElementGuid>c9dd6c38-4f0f-497d-a3af-15338416878a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

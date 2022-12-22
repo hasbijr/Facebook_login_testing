@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin_Login_Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9754737-ed86-4585-a5ad-34475f82a74e</testCaseGuid>
+</TestCaseEntity>

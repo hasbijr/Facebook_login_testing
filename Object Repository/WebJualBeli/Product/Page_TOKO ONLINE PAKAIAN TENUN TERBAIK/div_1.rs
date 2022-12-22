@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1</name>
+   <tag></tag>
+   <elementGuidId>7cdd51b5-ca69-47d7-a990-393ffd3a63a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div[2]/ul/li/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-btns-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2699611a-9861-4412-9e28-c015556ee4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-btns-icon</value>
+      <webElementGuid>49d0c635-e3b3-489e-8ff0-28755ed86aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									
+									1
+								</value>
+      <webElementGuid>bca22ea3-c900-422b-abbf-b13cbff3d84c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;pull-right&quot;]/ul[@class=&quot;header-btns&quot;]/li[@class=&quot;header-cart dropdown default-dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/div[@class=&quot;header-btns-icon&quot;]</value>
+      <webElementGuid>1a91661a-cf03-43b9-8010-f745267eac93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[2]/ul/li/a/div</value>
+      <webElementGuid>bd7b1a2e-87b9-4e50-8e0c-36cc986d511e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keranjang Belanja :'])[1]/preceding::div[1]</value>
+      <webElementGuid>485ce020-385f-45f8-bf1e-85c6cac7598e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 130,000 ,-'])[1]/preceding::div[1]</value>
+      <webElementGuid>32d9220b-6c16-4c3c-852d-9bd91343e1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>9bffa7a9-274e-4f25-b840-b7493d185df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+									
+									1
+								' or . = '
+									
+									1
+								')]</value>
+      <webElementGuid>310a7b8d-dcc3-4895-b006-e03de8e47b6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
